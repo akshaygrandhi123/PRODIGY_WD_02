@@ -1,4 +1,3 @@
-```markdown
 # Stopwatch
 
 This is a simple stopwatch application built with HTML, CSS, and JavaScript. The stopwatch allows you to start, stop, and reset the timer, as well as record lap times.
@@ -35,6 +34,4 @@ Contributions are welcome! If you find any issues or want to add new features, f
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
 
-Make sure to replace `your-username` with your actual GitHub username and update the `git clone` command accordingly. Also, add a `LICENSE` file to your repository if you want to include a license.
